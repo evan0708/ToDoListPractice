@@ -1,2 +1,0 @@
-# ToDoListPractice
-Created with CodeSandbox
